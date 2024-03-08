@@ -1,6 +1,6 @@
 # Yolov9-detect-text
 
-Kết quả training Yolov9 trên tập ICDAR 2003 
+Kết quả fine tuning Yolov9 trên tập ICDAR 2003 
 ![1](https://github.com/PhamTrinhDuc/Yolov9-detect-text/assets/127647215/e5c50365-1df8-45a0-a4fe-9b70bc1ddbee)
 
 
